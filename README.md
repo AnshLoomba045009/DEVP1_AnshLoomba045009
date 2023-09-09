@@ -110,3 +110,36 @@ After running the above code we can see that the 1927 movie only had a sample of
 
 ![image](https://github.com/AnshLoomba045009/anshloomba045009/assets/142685372/1f29ef59-e6c0-4871-a7f7-1edf4681ea6f)
 
+Managerial or Key Insights of analysing the data:
+
+Analyzing movie data like the one you provided can offer valuable insights for various stakeholders in the film industry, including producers, distributors, and marketers. Here are some key managerial insights and analyses that can be derived from this dataset:
+1.	Genre Popularity: You can analyze which genres are currently popular among moviegoers. For example, you can calculate the average ratings and box office performance of movies in different genres to identify trends.
+2.	Box Office Performance: Investigate the relationship between a movie's runtime and its box office success. Do longer or shorter movies tend to perform better at the box office?
+3.	Audience Reception: Examine how IMDb ratings correlate with Metascore ratings. Are movies that are well-received by critics also favored by audiences? This can help producers and distributors understand the importance of critical reviews in driving audience interest.
+4.	Franchise Success: If there are any movie franchises in the dataset (e.g., "Guardians of the Galaxy Vol. 3"), analyze how each installment performed compared to its predecessors. This can provide insights into the franchise's longevity and audience loyalty.
+5.	Demographic Analysis: Consider the PG and PG-13 ratings. Analyze whether movies with different ratings have distinct audience demographics. This information can help marketers target specific age groups more effectively.
+6.	Release Year Trends: Look at how movie ratings and box office earnings have changed over the years. Are there any trends indicating shifts in audience preferences or industry dynamics?
+7.	Outliers Identification: Identify outliers in the dataset. For instance, "Teenage Mutant Ninja Turtles: Mutant Mayhem" has a notably high Metascore compared to the others. Investigate the reasons behind such outliers, as they may provide insights into unexpected successes or failures. Marketing Strategies: Study the relationship between the number of votes and box office earnings. This can help in assessing the effectiveness of marketing and promotional campaigns in generating audience interest and driving box office revenue.
+8.	Niche Genres: Analyze less common genres (e.g., "Animation" in the case of "Teenage Mutant Ninja Turtles: Mutant Mayhem"). Are there niche genres that consistently perform well, indicating potential untapped markets?
+9.	Budget Analysis: If available, incorporate budget data to assess the return on investment (ROI) for each movie. This can provide valuable insights into cost-effective filmmaking strategies.
+
+
+Implications :
+
+The implications of the insights drawn from the movie dataset can have significant consequences for various stakeholders in the film industry. Here are some implications based on the analyses:
+
+1.	Genre Selection and Investment: Producers and studios can use genre popularity data to make informed decisions about which types of movies to invest in. If certain genres consistently perform well, they may choose to allocate more resources to produce films in those genres.
+2.	Runtime Optimization: Filmmakers can use insights about the relationship between runtime and box office performance to make decisions about the ideal length of their movies. This can impact the pacing of the story and audience engagement.
+3.	Marketing and Promotion Strategies: Movie marketers can focus their efforts on promoting films that have a high likelihood of success, based on their genre, rating, and expected audience demographics. They can also prioritize marketing campaigns for movies with strong critical acclaim.
+4.	Franchise Planning: Studios can make strategic decisions about the continuation of movie franchises based on the performance of previous installments. If a franchise consistently performs well, they may plan for more sequels or spin-offs.
+5.	Critical Reviews vs. Audience Reception: Filmmakers and studios can assess the importance of critical reviews versus audience ratings. If there is a strong correlation between the two, they may prioritize efforts to receive positive critical reviews.
+6.	Demographic Targeting: Marketing teams can tailor their campaigns to specific age groups based on movie ratings. For example, PG-rated movies may be marketed more towards families and children, while PG-13-rated movies may target teenagers and young adults.
+7.	Long-Term Industry Trends: Industry professionals can monitor the trends in movie ratings, box office earnings, and audience reception over the years. This information can be used for long-term strategic planning and adapting to changes in audience preferences.
+8.	Outlier Exploration: Understanding outliers can help studios investigate the reasons behind exceptional success or failure. This can lead to valuable lessons and insights for future movie production and marketing strategies.
+9.	Niche Genre Exploration: Studios may explore niche genres that consistently perform well, potentially tapping into underserved markets and diversifying their film portfolios.
+10.	ROI Assessment: Incorporating budget data into the analysis can help studios assess the profitability of their movies. This can lead to more informed decisions regarding budget allocation and cost-effective filmmaking practices.
+
+In summary, the implications of analyzing movie data are multifaceted and can impact decisions related to genre selection, marketing strategies, franchise planning, and more. These insights can help the film industry make data-driven decisions to improve the success and profitability of their productions.
+![image](https://github.com/AnshLoomba045009/anshloomba045009/assets/142685372/1d4d24eb-a0d2-4543-93c9-ad47c5c49fcd)
+
+
